@@ -4,7 +4,7 @@ body {
   text-align: center;
   font-family: 'Architects Daughter', cursive;
   font-size: 2rem;
-  color:#505050;
+  color: 		#505050;
 }
 
 
@@ -83,12 +83,14 @@ hr{
 
 .middle-container {
 background-color: #81D8D0;
+/*background-color:#9FEAE3;*/
 padding-top: 5%;
 padding-bottom: 5%;
 }
 
 .bottom-container {
-  background-color: #FC91AF;
+
+    background-color: #FC91AF;
   padding-top: 3%;
   position: relative;
   padding-bottom: 3%;
@@ -135,8 +137,8 @@ padding-bottom: 5%;
 
 .kitty{
   width: 5%;
-  position: absolute;
-  top: 20%;
+  position: fixed;
+  top: 80%;
 }
 
 .first-kitty{
